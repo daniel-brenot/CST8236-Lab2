@@ -1,4 +1,4 @@
-# CST8236-Lab2
+# Wacky Wavy-Arm Inflateable Tube Man
 Wacky Wavy Arm Inflatable Tube Man!!! This application creates a wacky wavy arm inflatable tube man that just keeps going!
 This was made during my enrollment at Algonquin College for a graphics project using SFML.
 
